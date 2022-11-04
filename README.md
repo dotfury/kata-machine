@@ -1,3 +1,6 @@
+## Frontend Masters: The Last Algorithms Course You'll Need
+[Notes](https://theprimeagen.github.io/fem-algos/)
+
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
