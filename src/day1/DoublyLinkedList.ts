@@ -49,7 +49,7 @@ export default class DoublyLinkedList<T> {
     current.prev = node;
 
     if (node.prev) {
-      node.prev.next = current;
+      node.prev.next = node;
     }
   }
 
