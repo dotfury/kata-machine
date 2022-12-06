@@ -1,3 +1,13 @@
+/*
+BinaryNode<T> = {
+  value: T;
+  left: BinaryNode<T> | null;
+  right: BinaryNode<T> | null;
+};
+*/
+
+// in order: traverse left, visit node, traverse right
+
 function walk(current: BinaryNode<number> | null, path: number[]): void {
   // can no longer recurse
   if (!current) {
